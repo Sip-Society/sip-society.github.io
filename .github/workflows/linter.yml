@@ -63,14 +63,6 @@ jobs:
           # Change to 'master' if your main branch differs
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_HTML: true
-          VALIDATE_CSS: true
-          VALIDATE_JAVASCRIPT_ES: true
-          VALIDATE_TYPESCRIPT: true
-          VALIDATE_GITLEAKS: true
-          VALIDATE_JSCPD: true
-          VALIDATE_JSON: true
-          VALIDATE_NATURAL_LANGUAGE: true
           JAVASCRIPT_DEFAULT_STYLE: prettier
           
           
