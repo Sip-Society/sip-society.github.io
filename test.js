@@ -1,1 +1,3 @@
-function testFunc() { console.log("ello"); }
+function testFunc() {
+    console.log("ello");
+}
