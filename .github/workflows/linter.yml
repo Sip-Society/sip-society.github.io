@@ -63,4 +63,3 @@ jobs:
           # Change to 'master' if your main branch differs
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          JAVASCRIPT_DEFAULT_STYLE: prettier
