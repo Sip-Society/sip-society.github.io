@@ -71,6 +71,7 @@ jobs:
           VALIDATE_JSCPD: true
           VALIDATE_JSON: true
           VALIDATE_NATURAL_LANGUAGE: true
+          JAVASCRIPT_DEFAULT_STYLE: prettier
           
           
           
